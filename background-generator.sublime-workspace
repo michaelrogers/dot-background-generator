@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fons",
+				"font-stretch"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"player",
+				"playerTurnWrapper"
+			],
+			[
+				"plate",
+				"playerTurnWrapper"
+			],
+			[
+				"blackS",
+				"blackScoreValue (obj) [C]"
+			],
+			[
+				"whiteScore",
+				"whiteScoreValue (obj) [C]"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"get",
+				"getElementById                            (fn)   [C]"
+			],
+			[
+				"key",
+				"keypress       (fn)  [C]"
+			],
+			[
+				"inter",
+				"intervalDelayValue (num) [E]"
+			],
+			[
+				"cell",
+				"cell_x             (num)  [E]"
+			],
+			[
+				"ce",
+				"cell_y             (num)  [E]"
+			],
+			[
+				"valid",
+				"validMoveGameObject (obj) [E]"
+			],
+			[
+				"vali",
+				"validMoveGameObject (obj) [E]"
+			],
+			[
+				"current",
+				"currentGameObject  (obj)  [E]"
+			],
+			[
+				"this",
+				"thisUserTurn"
+			],
+			[
+				"ease-in",
+				"ease-in-out"
+			],
+			[
+				"trans",
+				"transition-duration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pastG",
+				"pastGameObject (obj) [E]"
+			],
+			[
+				"tur",
+				"turnIndex       (num) [E]"
+			],
+			[
+				"second",
+				"secondaryTurnIndex (num) [E]"
+			],
+			[
+				"turn",
+				"turnDataArray   (?)   [E]"
+			],
+			[
+				"curre",
+				"currentGameData   (obj) [E]"
+			],
+			[
+				"currentGame",
+				"currentGameObject"
+			],
+			[
+				"game",
+				"gameOn           (bool) [E]"
+			],
+			[
+				"oppo",
+				"opponentJoined"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"g",
+				"getElementById                            (fn)   [C]"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"set",
+				"setSession         (fn)  [E]"
+			],
+			[
+				"res",
+				"resignationConfirmation (bool) [C]"
+			],
+			[
+				"play",
+				"playerWhite          (str) [E]"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"ses",
+				"sessionState       (?)   [E]"
+			],
+			[
+				"global",
+				"globalGameInit             (?)    [C]"
+			],
+			[
+				"load",
+				"onload                     (fn)   [C]"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"overflow",
+				"overflow-y"
+			],
+			[
+				"return",
+				"returnGameDocument"
+			],
+			[
+				"clear",
+				"clearArray         (fn)   [E]"
+			],
+			[
+				"read",
+				"readCollection       (fn)  [E]"
+			],
+			[
+				"currentGam",
+				"currentGameId      (?)    [E]"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"ge",
+				"generateGameId   (fn)   [E]"
+			],
+			[
+				"cur",
+				"currentGameDocument (obj)  [E]"
+			],
+			[
+				"curr",
+				"currentGameObject   (obj)  [E]"
+			],
+			[
+				"draw",
+				"drawMarker         (fn)   [E]"
+			],
+			[
+				"context",
+				"contextMarkers     (obj)  [C]"
+			],
+			[
+				"fill",
+				"fillRect                 (fn)   [C]"
+			],
+			[
+				"conte",
+				"contextMarkers      (obj)  [C]"
+			],
+			[
+				"cli",
+				"clickInputAccepted (bool) [E]"
+			],
+			[
+				"Player",
+				"playerColorSelection"
+			],
+			[
+				"Ge",
+				"getElementById                            (fn)   [C]"
+			],
+			[
+				"curren",
+				"currentPlayerTurn (num)  [E]"
+			],
+			[
+				"mou",
+				"listenMouseDown"
+			],
+			[
+				"flip",
+				"flipCoordinate_x         ([])  [E]"
+			],
+			[
+				"currentG",
+				"currentGameObject  (?)    [E]"
+			],
+			[
+				"ret",
+				"returnGameDocument   (fn)  [E]"
+			],
+			[
+				"update",
+				"updatedFromThisClient (bool) [E]"
+			],
+			[
+				"up",
+				"updatedFromThisClient (bool) [E]"
+			],
+			[
+				"cure",
+				"currentGameDocument (obj)  [E]"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"val",
+				"valuePiece (?)  [E]"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"overfl",
+				"overflow-wrap"
+			],
+			[
+				"over",
+				"text-overflow"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"P",
+				"PieceCollection (obj) [E]"
+			],
+			[
+				"boar",
+				"boardWidth    (num) [E]"
+			],
+			[
+				"glob",
+				"globalDebug      (fn)  [E]"
+			],
+			[
+				"deb",
+				"debugErrorMessage  (bool) [E]"
+			],
+			[
+				"flipp",
+				"flippingLogTextAnimation (fn)  [E]"
+			],
+			[
+				"time",
+				"timeoutIndex            (num) [E]"
+			],
+			[
+				"timeout",
+				"timeoutIndex            (?)  [E]"
+			],
+			[
+				"fli",
+				"flipCoordinate_x ([])  [E]"
+			],
+			[
+				"fl",
+				"flipCoordinate_x ([])  [E]"
+			],
+			[
+				"add",
+				"addPiece         (fn) [E]"
+			],
+			[
+				"offset",
+				"offset_y       (num) [C]"
+			],
+			[
+				"canva",
+				"canvas_y      (?)    [E]"
+			],
+			[
+				"board",
+				"boardPosition"
+			],
+			[
+				"r",
+				"row6                ([]) [E]"
+			],
+			[
+				"row",
+				"row5                ([]) [E]"
+			],
+			[
+				"x",
+				"xPosition"
+			],
+			[
+				"y",
+				"yPosition (num) [E]"
+			],
+			[
+				"ran",
+				"randomY             (num) [E]"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "background-generator.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 297.0,
+		"last_filter": "Install Package",
+		"selected_items":
+		[
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 534.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Michael/othello/othello.css",
+		"/C/Users/Michael/othello/client/chat.js",
+		"/C/Users/Michael/othello/client/templates.js",
+		"/C/Users/Michael/othello/lib/collections.js",
+		"/C/Users/Michael/othello/TODO",
+		"/C/Users/Michael/othello/client/client.js",
+		"/C/Users/Michael/othello/client/lobby.js",
+		"/C/Users/Michael/othello/server/server.js",
+		"/C/Users/Michael/othello/client/templates.html",
+		"/C/Users/Michael/othello/othello.html",
+		"/C/Users/Michael/Documents/SimpleWebServer/README.md",
+		"/C/Users/Michael/Documents/MHRogers/index.php",
+		"/C/Users/Michael/Documents/Arduino Projects/Macro_Watch_V2/Hardware/Eagle/README.md",
+		"/C/Users/Michael/othello/.gitignore",
+		"/C/Users/Michael/Downloads/JavaScriptResources.md",
+		"/C/Users/Michael/othello/_old/__chat.js",
+		"/C/Users/Michael/othello/chat.js",
+		"/C/Users/Michael/othello/settings.json",
+		"/C/Users/Michael/othello/othello.js",
+		"/C/Users/Michael/othello/server.js",
+		"/C/Users/Michael/othello/server/collections.js",
+		"/C/Users/Michael/othello/.gitattributes",
+		"/C/Users/Michael/othello/canvas.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"canvas",
+			"calculateScore",
+			"playerTurnWrapper",
+			"Player Turn:",
+			"playerDesignation",
+			"playerTurn",
+			"canvas",
+			"240",
+			"hr",
+			"a:",
+			"intervalDelay - ",
+			"interval - Delay",
+			"switchTurn - ",
+			"clientUpdated",
+			"getElementById(\"turn\")",
+			"turn",
+			"innerHTML",
+			"playerTurn",
+			"console.count",
+			"console.l",
+			"drawMarker",
+			"thisUserTurn",
+			"switchTurn",
+			"thisUserTurn",
+			"clientUpdated",
+			"thisUserTurn",
+			"intervalDelay",
+			"setInterval",
+			"thisUserTurn",
+			"playerTurn = ",
+			"playerTurn =",
+			"switchTurn",
+			"playerTurn",
+			"\\",
+			"playerTurn",
+			"intervalDelay",
+			"switchTurn",
+			"flippingLogTextAnimation",
+			"updatedFromThisClient",
+			"clientUpdated",
+			"playerTurn",
+			"drawMarke",
+			"clearMarkerCanvas",
+			"thisUserTurn",
+			"clientUpdated",
+			"updateGameData",
+			"clientUpdated",
+			"drawPieces",
+			"playerTurn",
+			"boardPosition",
+			"currentGameObject",
+			"setInitialPosition",
+			"currentGameObject",
+			"addPiece",
+			"drawPieces",
+			"boardPosition",
+			"drawMarker",
+			"thisUserTurn",
+			"clientUpdated",
+			"addPiece",
+			"intervalDelayValue",
+			"setSession",
+			"validMove",
+			"intervalDelay",
+			"updated",
+			"intervalDelay",
+			"interval",
+			"clientUpdated",
+			"drawMarker",
+			"intervalDelay",
+			"diffCollections",
+			"drawMarker",
+			"Meteor",
+			"updateGameData",
+			"float: right",
+			"switchTurn",
+			"endGame",
+			"messagesText",
+			"clientUpdated",
+			"switchTurn",
+			"clientUpdated",
+			"whatPlayer",
+			"intervalDelay",
+			"clientUpdated",
+			"readCollection",
+			"return",
+			"returnGameDocument",
+			"init",
+			"clearArray",
+			"clear",
+			"readCollection",
+			"setInitialPosition",
+			"returnGame",
+			"boardPosition",
+			"endGame",
+			"gameOn",
+			"score",
+			"clientUpdated",
+			"returnGameDocument",
+			"gameOn",
+			"returnGame",
+			"return",
+			"cell_x",
+			"switchTurn",
+			"intervalDelay",
+			"returnFlipCoordinate",
+			"intSet",
+			"flipping",
+			"calculateScore",
+			"switchTurn",
+			"returnGame",
+			"family",
+			"font-family:",
+			"setSession",
+			"Session.set",
+			"thisPlayerTurn",
+			"thisPlayer",
+			"Player Turn:",
+			"Player ",
+			"setSession",
+			"messages",
+			"lobby",
+			"console",
+			"WhatPlay",
+			"opponentUsername",
+			"joinGame",
+			"playerDesignation",
+			"flippingLogTextAnimation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sessionStorage.setItem('gameId')",
+			"\"value\"",
+			"pieceGradient"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "background-generator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "background-generator.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Michael\\othello\\Othello.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"active"
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

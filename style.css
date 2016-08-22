@@ -1,0 +1,22 @@
+p {
+	font-weight: bold;
+	font-family: "Segoe UI";
+}
+
+canvas {
+	/*background: radial-gradient(circle, #9fd38e, #56a33d, #396d28);*/
+	/*background: linear-gradient(to top, lightgrey, slategrey);*/
+	min-height: 300px;
+	min-width: 300px;
+	margin: 0 auto;
+	z-index: -1;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#canvasWrapper {
+	overflow: hidden;
+}
