@@ -16,6 +16,10 @@ html, body {
 	padding: 0;
 	overflow: hidden;
 	background: linear-gradient(to bottom, #545454, #767676);
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #canvasWrapper {
